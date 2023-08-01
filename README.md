@@ -62,7 +62,7 @@ I developed the Hand Guns mobile game using the Unity game engine with C# progra
 
 ## Languages
 
-- English: Fluent [CEFR level B2, certified by Mohamed Khider University]
+- English: Super Fluent
 - Arabic: Fluent [native speaker]
 - French: Intermediate
 
