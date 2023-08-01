@@ -28,7 +28,7 @@ I developed the Leaf Lo-Fi Music App using the Flutter framework with Dart progr
 ### [Play Store Link for Leaf Lo-Fi Music App](https://play.google.com/store/apps/details?id=com.bhicham.leaf_music)
 
 
-### Hand Guns [Mobile Game]
+### Hand Guns [Mobile Game] (WIP) 🚧
 
 I developed the Hand Guns mobile game using the Unity game engine with C# programming language and Visual Studio IDE. The game aimed to improve my UI/UX design skills and involved coding physics and math formulas for object movements and projectiles. It also included performance testing programming and animation.
 
