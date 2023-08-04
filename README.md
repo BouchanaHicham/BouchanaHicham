@@ -11,21 +11,28 @@
     <img height="40" width="40" src="https://cdn.simpleicons.org/html5" alt="html5">
     <img height="40" width="40" src="https://cdn.simpleicons.org/css3" alt="css3">
     <img height="40" width="40" src="https://cdn.simpleicons.org/php" alt="php">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/tensorflow" alt="tensorflow">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/numpy" alt="numpy">
+    
     
     
     
 </div>
 <div style="display: flex;">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/flutter" alt="flutter">    
+    <img height="40" width="40" src="https://cdn.simpleicons.org/flutter" alt="flutter">   
+    <img height="40" width="40" src="https://cdn.simpleicons.org/firebase" alt="firebase">   
     <img height="40" width="40" src="https://cdn.simpleicons.org/unity" alt="unity">
     <img height="40" width="40" src="https://cdn.simpleicons.org/github" alt="github">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/git" alt="git">
     <img height="40" width="40" src="https://cdn.simpleicons.org/pycharm" alt="pycharm">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/spyderide" alt="spyderide">
     <img height="40" width="40" src="https://cdn.simpleicons.org/docker" alt="Docker">
     <img height="40" width="40" src="https://cdn.simpleicons.org/xampp" alt="xampp">
     <img height="40" width="40" src="https://cdn.simpleicons.org/apachenetbeanside" alt="apachenetbeanside">
     <img height="40" width="40" src="https://cdn.simpleicons.org/visualstudio" alt="visualstudio">
     <img height="40" width="40" src="https://cdn.simpleicons.org/visualstudiocode" alt="visualstudiocode">
     <img height="40" width="40" src="https://cdn.simpleicons.org/virtualbox" alt="virtualbox">
+    
     
     
     
