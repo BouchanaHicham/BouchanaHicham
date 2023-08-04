@@ -1,7 +1,7 @@
 # Hi there, I'm Hicham! 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BouchanaHicham&show_icons=true&theme=dark&rank_icon=github)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BouchanaHicham)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BouchanaHicham&layout=compact)
 
 ## About Me
 
