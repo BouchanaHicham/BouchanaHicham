@@ -1,7 +1,38 @@
 # Hi there, I'm Hicham! 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BouchanaHicham&show_icons=true&theme=dark&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BouchanaHicham&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BouchanaHicham&layout=compact)<br>
+
+<div style="display: flex;">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/python" alt="Python">    
+    <img height="40" width="40" src="https://cdn.simpleicons.org/dart" alt="dart">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/csharp" alt="csharp">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/C" alt="C">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/html5" alt="html5">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/css3" alt="css3">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/php" alt="php">
+    
+    
+    
+</div>
+<div style="display: flex;">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/flutter" alt="flutter">    
+    <img height="40" width="40" src="https://cdn.simpleicons.org/unity" alt="unity">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/github" alt="github">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/pycharm" alt="pycharm">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/docker" alt="Docker">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/xampp" alt="xampp">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/apachenetbeanside" alt="apachenetbeanside">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/visualstudio" alt="visualstudio">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/visualstudiocode" alt="visualstudiocode">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/virtualbox" alt="virtualbox">
+    
+    
+    
+    
+</div>
+
+
 
 ## About Me
 
