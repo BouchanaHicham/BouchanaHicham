@@ -1,7 +1,7 @@
 # Hi there, I'm Hicham! 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BouchanaHicham&show_icons=true&theme=dark&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BouchanaHicham&layout=compact)<br>
+![Anurag's GitHub stats](https://github-readme-stats-bouchanahicham.vercel.app/api?username=BouchanaHicham&show_icons=true&theme=dark&rank_icon=github)
+![Top Langs](https://github-readme-stats-bouchanahicham.vercel.app/api/top-langs/?username=BouchanaHicham&layout=compact)<br>
 
 <div style="display: flex;">
     <img height="40" width="40" src="https://cdn.simpleicons.org/python" alt="Python">    
