@@ -13,11 +13,8 @@
     <img height="40" width="40" src="https://cdn.simpleicons.org/php" alt="php">
     <img height="40" width="40" src="https://cdn.simpleicons.org/tensorflow" alt="tensorflow">
     <img height="40" width="40" src="https://cdn.simpleicons.org/numpy" alt="numpy">
-    
-    
-    
-    
 </div>
+
 <div style="display: flex;">
     <img height="40" width="40" src="https://cdn.simpleicons.org/flutter" alt="flutter">   
     <img height="40" width="40" src="https://cdn.simpleicons.org/firebase" alt="firebase">   
@@ -32,11 +29,6 @@
     <img height="40" width="40" src="https://cdn.simpleicons.org/visualstudio" alt="visualstudio">
     <img height="40" width="40" src="https://cdn.simpleicons.org/visualstudiocode" alt="visualstudiocode">
     <img height="40" width="40" src="https://cdn.simpleicons.org/virtualbox" alt="virtualbox">
-    
-    
-    
-    
-    
 </div>
 
 
