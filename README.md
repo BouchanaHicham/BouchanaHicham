@@ -3,6 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats-h-bouchanahicham.vercel.app/api?username=BouchanaHicham&show_icons=true&theme=dark&rank_icon=github)
 ![Top Langs](https://github-readme-stats-h-bouchanahicham.vercel.app/api/top-langs/?username=BouchanaHicham&layout=compact&langs_count=10&hide=ShaderLab,CMake,HLSL,JavaScript) <br>
 
+
 <div style="display: flex;">
     <img height="40" width="40" src="https://cdn.simpleicons.org/python" alt="Python">    
     <img height="40" width="40" src="https://cdn.simpleicons.org/dart" alt="dart">
