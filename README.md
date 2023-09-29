@@ -40,6 +40,8 @@
 
 I am a highly motivated and skilled software developer with a Bachelor's Degree in Computer Science and currently pursuing a Master's Degree in Artificial Intelligence from Mohamed Khider University of Biskra. I specialize in AI and have a passion for developing mobile apps, video games, and machine learning programs. I'm proud to have two apps published on the Play Store and have authored three reports (PDFs) related to machine learning programs, as well as several others covering various topics in computer science.
 
+## Achievements 🏆
+🥇 Winner Of The National Ai and Robotics Cup 2023 🥇
 ## 📚 Education
 
 - **Bachelor Degree of Computer Science** (2019 – 2022)  
