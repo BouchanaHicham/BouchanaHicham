@@ -23,7 +23,7 @@
     <img height="40" width="40" src="https://cdn.simpleicons.org/flutter" alt="flutter">   
     <img height="40" width="40" src="https://cdn.simpleicons.org/firebase" alt="firebase">   
     <img height="40" width="40" src="https://cdn.simpleicons.org/unity" alt="unity">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/github" alt="github">
+    <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github">
     <img height="40" width="40" src="https://cdn.simpleicons.org/git" alt="git">
     <img height="40" width="40" src="https://cdn.simpleicons.org/pycharm" alt="pycharm">
     <img height="40" width="40" src="https://cdn.simpleicons.org/spyderide" alt="spyderide">
