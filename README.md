@@ -9,7 +9,7 @@
     <img height="40" width="40" src="https://cdn.simpleicons.org/python" alt="Python">    
     <img height="40" width="40" src="https://cdn.simpleicons.org/dart" alt="dart">
     <img height="40" width="40" src="https://cdn.simpleicons.org/C" alt="C">
-    <img height="40" width="40" src="[https://cdn.simpleicons.org/csharp](https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg)" alt="csharp">
+    <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp">
     <img height="40" width="40" src="https://cdn.simpleicons.org/c++" alt="c++">
     <img height="40" width="40" src="https://cdn.simpleicons.org/html5" alt="html5">
     <img height="40" width="40" src="https://cdn.simpleicons.org/css3" alt="css3">
