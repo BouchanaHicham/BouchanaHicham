@@ -25,7 +25,7 @@
     <img height="40" width="40" src="https://cdn.simpleicons.org/unity" alt="unity">
     <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github">
     <img height="40" width="40" src="https://cdn.simpleicons.org/git" alt="git">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/pycharm" alt="pycharm">
+    <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="pycharm">
     <img height="40" width="40" src="https://cdn.simpleicons.org/spyderide" alt="spyderide">
     <img height="40" width="40" src="https://cdn.simpleicons.org/docker" alt="Docker">
     <img height="40" width="40" src="https://cdn.simpleicons.org/xampp" alt="xampp">
