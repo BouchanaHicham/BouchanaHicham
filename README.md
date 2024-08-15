@@ -30,8 +30,8 @@
     <img height="40" width="40" src="https://cdn.simpleicons.org/docker" alt="Docker">
     <img height="40" width="40" src="https://cdn.simpleicons.org/xampp" alt="xampp">
     <img height="40" width="40" src="https://cdn.simpleicons.org/apachenetbeanside" alt="apachenetbeanside">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/visualstudio" alt="visualstudio">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/visualstudiocode" alt="visualstudiocode">
+    <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="visualstudio">
+    <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudiocode">
     <img height="40" width="40" src="https://cdn.simpleicons.org/virtualbox" alt="virtualbox">
 </div>
 
