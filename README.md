@@ -46,10 +46,13 @@ I am a highly motivated and skilled software developer with a Bachelor's Degree 
 ## 📚 Education
 
 - **Bachelor Degree of Computer Science** (2019 – 2022)  
-  Mohamed Khider University of Biskra
+  Mohamed Khider University of Biskra, Algeria.
 
-- **Master’s Degree of Artificial Intelligence** (2022 – ...)  
-  Mohamed Khider University of Biskra
+- **Master’s Degree of Artificial Intelligence** (2022 – 2024)  
+  Mohamed Khider University of Biskra, Algeria.
+
+- **Ph.D. in Artificial Intelligence** (2024 – 2027)  
+  Mediterranea University of Reggio Calabria, Italy.
 
 ## 🚀 Projects
 
